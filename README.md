@@ -1,2 +1,2 @@
 # python-project
-my python project fot the course python 101
+my python project for the course python 101
